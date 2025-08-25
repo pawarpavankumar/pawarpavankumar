@@ -34,9 +34,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavarpavankumar&show_icons=true&theme=radical)  
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawarpavankumar&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavarpavankumar&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawarpavankumar&layout=compact&theme=radical)  
 
 ---
 

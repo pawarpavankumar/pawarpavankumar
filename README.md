@@ -3,7 +3,7 @@
 🎓 Final-year **B.Tech Metallurgical Engineering** student at IIT BHU  
 🔬 Interested in **Mechanical Behaviour of Materials | Heat Treatment | Materials Data Science**  
 💻 Exploring **Python, Data Analysis, Machine Learning in Materials**  
-🏸 Outside academics: Badminton | Organizing cultural fests | Tech & Research Enthusiast  
+🏸 Outside academics: Badminton | Cricket | Organizing cultural fests | Tech & Research Enthusiast  
 
 ---
 
